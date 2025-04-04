@@ -1,0 +1,47 @@
+# JavaScript Complete Guide
+
+A comprehensive collection of JavaScript concepts from fundamentals to advanced topics. This repository serves as both a learning resource and a reference guide.
+
+## Topics Covered
+
+1. **JavaScript Fundamentals**
+   - Variables and Data Types
+   - Operators and Control Flow
+   - Functions and Scope
+
+2. **Advanced Concepts**
+   - Closures and Hoisting
+   - Object-Oriented Programming
+   - Asynchronous Programming
+
+3. **Modern JavaScript**
+   - ES6+ Features
+   - Functional Programming
+   - Error Handling
+
+4. **Browser Integration**
+   - Web APIs
+   - DOM Manipulation
+   - Security Best Practices
+
+## How to Use
+
+Each folder contains detailed examples and explanations for specific topics. Code examples include comments explaining the concepts and their practical applications.
+
+## Getting Started
+
+```bash
+# Clone the repository
+git clone https://github.com/kartik126/js-complete-guide.git
+
+# Navigate to the project
+cd js-complete-guide
+```
+
+## Contributing
+
+Feel free to contribute by submitting pull requests or creating issues for improvements.
+
+## License
+
+MIT License
